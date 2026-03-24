@@ -328,7 +328,7 @@ pip install -r requirements.txt
 
 \- Name: VINAMRA Sarthak
 
-\- GitHub: https://github.com/DraunzerSpecter/Natural-Disasters-Analysis-And-Classification/upload
+\- GitHub: https://github.com/DraunzerSpecter/Natural-Disasters-Analysis-And-Classification
 
 \- LinkedIn: www.linkedin.com/in/vinamrasarthak
 
